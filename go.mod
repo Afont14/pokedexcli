@@ -1,3 +1,3 @@
-module github.com/Afont14/pokedexcli
+module github.com/bootdotdev/pokedexcli
 
 go 1.26.0
